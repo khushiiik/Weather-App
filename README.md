@@ -111,6 +111,9 @@ weather-app/
 ├── script.js            # JavaScript file for handling functionality
 ├── index.html           # Main HTML file
 └── README.md            # Project readme file (this file)
+
+````
+
 ⚙️ Installation & Setup
 Clone the repository
 
@@ -141,4 +144,3 @@ The background video and weather icon will change based on the current weather c
 
 
 
-````
