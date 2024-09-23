@@ -1,6 +1,6 @@
 # 🌤 Weather App
 
-A simple weather app that displays the current weather for a searched city, including temperature, humidity, wind speed, and dynamically changes the background video and icon based on the weather condition.
+A simple weather app that displays the current weather for a searched location, including temperature, humidity, wind speed, and dynamically changes the background video and icon based on the weather condition.
 
 ## 🔗 Live Demo
 [Insert live link here, if deployed]
@@ -9,7 +9,7 @@ A simple weather app that displays the current weather for a searched city, incl
 
 ## 📜 Features
 
-- Search for any city to get the current weather data.
+- Search for any location to get the current weather data.
 - Displays temperature, humidity, and wind speed.
 - Dynamically changes the weather icon and video background according to the weather conditions (Clouds, Clear, Rain, Drizzle, Mist).
 - Responsive design.
@@ -53,10 +53,10 @@ weather-app/
 ---
 
 ## 🌐 How to Use
-- Enter the city name in the search bar.
+- Enter the location name in the search bar.
 - Click the search button or press enter.
 - The app will display the weather data including temperature, humidity, and wind speed.
-- The background video and weather icon will change based on the current weather condition in that city.
+- The background video and weather icon will change based on the current weather condition in that location.
 
 ---
 
